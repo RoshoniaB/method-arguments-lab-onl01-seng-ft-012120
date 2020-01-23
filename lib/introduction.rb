@@ -1,4 +1,4 @@
-# lib/introduction.rb
+"../lib/introduction.rb"
 
 def introduction "josh"
   puts "Hi, my name is #
